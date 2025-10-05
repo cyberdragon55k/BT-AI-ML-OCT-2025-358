@@ -33,12 +33,12 @@ To build a binary classification model that predicts whether a passenger survive
 
 ### Dataset
 The dataset was obtained from the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic).
-els were evaluated based on their accuracy and classification reports on a held-out test set.
----
+
 ## 🏠 Task 2: House Price Prediction (Regression)
 
 ### Objective
 To apply regression techniques to predict the sale price of houses using a dataset with both numerical and categorical features.
+
 ### Dataset
 The dataset was obtained from the [Kaggle House Prices Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 ## 🛠️ Technologies Used
@@ -52,3 +52,23 @@ The dataset was obtained from the [Kaggle House Prices Competition](https://www.
 * **Environment:** Jupyter Notebook
 
 ---
+
+## ⚙️ How to Run the Code
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/BT-AI-ML-SEP-2025-[Your-Registration-Number].git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd BT-AI-ML-SEP-2025-[Your-Registration-Number]
+    ```
+3.  **Install the required libraries:**
+    ```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyterlab
+    ```
+4.  **Launch Jupyter Notebook:**
+    ```bash
+    jupyter lab
+    ```
+5.  Open and run the notebooks `Task_1_Titanic_Classification.ipynb` and `Task_2_House_Price_Regression.ipynb`.
